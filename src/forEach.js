@@ -19,3 +19,5 @@ first argument
 const forEach = function(arr, callback) {
   // implement forEach here
 }
+
+console.log("hey")
